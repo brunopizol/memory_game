@@ -17,7 +17,7 @@
 //--------------------------------------------------------------------------------------
 # define   MAXBUFF 1024
 # define   FIM    "fim da transmissao"
-
+// autores : Bruno Pizol e Dennes Spinola
 
 int termina;
 int termina1;
