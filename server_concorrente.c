@@ -25,6 +25,9 @@ void converteArray();
 void buscaJogadas();
 void registerPlayer();
 
+//Autores: Bruno pizol e Dennes Spinola
+
+
 int main( int argc, char *argv[] )
 {
     FILE* temp1;
@@ -255,7 +258,7 @@ void verificaMsg(char *msg)
 
     }
 
-    /// --------------------- começa a verificacao da msg ----------------------------------------
+    /// --------------------- comeÃ§a a verificacao da msg ----------------------------------------
 
     while(player != NULL)
     {
